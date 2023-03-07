@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "183049766911",
+    "project_id": "udemy-course-12373",
+    "storage_bucket": "udemy-course-12373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183049766911:android:60404510a1a7cc91e2c9ca",
+        "android_client_info": {
+          "package_name": "com.example.taskb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183049766911-4om7ok7ibiq7o0ocek638e78d3qo5jcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aEfT9iGrTMNs-q-cXes1V2s5rUt7Ss8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183049766911-4om7ok7ibiq7o0ocek638e78d3qo5jcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183049766911-br6rde9ej6eokmp9se959hkjs9qqa8iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.udemy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183049766911:android:fb6c3eff7610ef07e2c9ca",
+        "android_client_info": {
+          "package_name": "com.example.udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183049766911-4om7ok7ibiq7o0ocek638e78d3qo5jcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aEfT9iGrTMNs-q-cXes1V2s5rUt7Ss8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183049766911-4om7ok7ibiq7o0ocek638e78d3qo5jcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183049766911-br6rde9ej6eokmp9se959hkjs9qqa8iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.udemy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
